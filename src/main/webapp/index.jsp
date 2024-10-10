@@ -10,8 +10,8 @@
 	<h2 style="color: black; font-size: 40px;" align="center">WE INTEGRATED NEXUS WITH JENKINS</h2>
 	<h2 style="color: blue; font-size: 40px;" align="center">THIS IS NEXUS TOPIC</h2>
 	<h2 style="color: blue; font-size: 40px;" align="center">This is done by Siva</h2>
-	<h2 style="color: green; font-size: 40px;" align="center">Webhooks are added by Sreedhar</h2>
-        <h1 style="color: black; font-size: 40px;" align="center">Webhooks are added by Sreedhar</h1>
+	<h2 style="color: green; font-size: 40px;" align="center">Webhooks are added by Shiva</h2>
+        <h1 style="color: black; font-size: 40px;" align="center">Webhooks are added by Shiva</h1>
 
 
       
